@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Sarah Sousa
+
 
 ### 💻 Estudante de Tecnologia | 🌐 Desenvolvimento Web | 🎨 Criatividade
 
@@ -77,9 +77,7 @@ Git/GitHub  ██████████░░░░░░░░  55%
 
 ---
 
-<div align="center">
-
-### ✨ "Aprendendo, criando e evoluindo." ✨
+<div align="center"
 
 </div>
 
